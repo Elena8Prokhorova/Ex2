@@ -1,0 +1,15 @@
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\bin\Debug\net6.0\ex2_1.exe
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\bin\Debug\net6.0\ex2_1.deps.json
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\bin\Debug\net6.0\ex2_1.runtimeconfig.json
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\bin\Debug\net6.0\ex2_1.dll
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\bin\Debug\net6.0\ex2_1.pdb
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\obj\Debug\net6.0\ex2_1.csproj.AssemblyReference.cache
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\obj\Debug\net6.0\ex2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\obj\Debug\net6.0\ex2_1.AssemblyInfoInputs.cache
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\obj\Debug\net6.0\ex2_1.AssemblyInfo.cs
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\obj\Debug\net6.0\ex2_1.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\obj\Debug\net6.0\ex2_1.dll
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\obj\Debug\net6.0\refint\ex2_1.dll
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\obj\Debug\net6.0\ex2_1.pdb
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\obj\Debug\net6.0\ex2_1.genruntimeconfig.cache
+C:\Users\Elena\Desktop\Visual projects\WhiteSoft\Z2\ex2\ex2_1\ex2_1\obj\Debug\net6.0\ref\ex2_1.dll
